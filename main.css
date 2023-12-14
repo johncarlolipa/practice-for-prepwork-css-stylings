@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px ;
+    margin: 10px;
+    font-weight: bolder;
+    text-decoration: none ;
+    color:black;
+    background-color:lavender;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding: 20px ;
+    margin: 10px;
+    font-weight: bolder;
+    text-decoration: none ;
+    color:white;
+    background-color:cadetblue;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family:'Franklin Gothic Medium',  sans-serif ;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    color: black;
+    background-color:bisque;
 }
 
 .logo {
     background-size: cover;
     background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    height: 10vh;
+    width: 20px;
 }
